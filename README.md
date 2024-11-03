@@ -1,5 +1,7 @@
 # Blum-Autoclicker
 This repository contains scripts designed to automate playing the Blum minigame on Telegram. Each script version has specific functionalities.
+![Target Example](image_2024-11-03_19-18-31.png)
+
 
 ## Versions
 - **Normal Game Script**: Automates normal gameplay.(Windows)
